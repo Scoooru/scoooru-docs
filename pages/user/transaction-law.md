@@ -28,7 +28,7 @@ support@scoooru.com
 
 ### 個人情報の取扱いについて
 
-[プライバシーポリシー]()をご参照ください。
+[プライバシーポリシー](https://scoooru.com/policy/privacy)をご参照ください。
 
 ### サブスクリプションの販売価格
 
